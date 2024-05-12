@@ -1,0 +1,10 @@
+3 numeros y saber el mayor //Listo
+caracter minusculas y mayusculas  
+mayor de 2 numero
+expresion a/b + 1
+numero negativo o positivo
+numero par o impar
+operaciones aritmeticas basicas.
+raiz cuadrada (sqrt())
+elevacion pow(variable,numero a potenciar)
+rango de edad 18 a 25 años
